@@ -26,4 +26,4 @@ A web-based application is introduced to recognize and analyze handwritten digit
 
 
 ### Authors:
-Don Miguel and [Chunxiao Li](https://github.com/ian8170)
+Don Miguel and [Chunxiao Li](https://github.com/ian8170) 
